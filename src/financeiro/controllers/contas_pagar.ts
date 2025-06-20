@@ -1,4 +1,3 @@
-// src/financeiro/controllers/contas_pagar.ts - O CÓDIGO CORRETO E COMPLETO
 import {create} from "zustand";
 import {immer} from "zustand/middleware/immer";
 import t from "onda-types";
